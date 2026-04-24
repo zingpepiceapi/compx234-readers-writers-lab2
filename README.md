@@ -17,7 +17,7 @@ All checks are done inside `while` loops around `condition.wait()` so that a thr
 ## How to run
 
 ```bash
-python readers_writers_starter.py
+python readers_writers.py
 ```
 
 ## Sample output
